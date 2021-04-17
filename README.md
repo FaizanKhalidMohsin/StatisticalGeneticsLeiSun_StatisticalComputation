@@ -1,2 +1,2 @@
 # StatisticalGeneticsLeiSun
-All introduction to Statistical Genetics Code and Material 
+Introduction to Statistical Genetics Code and Material 
